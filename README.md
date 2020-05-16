@@ -7,6 +7,7 @@ directamente desde mi ambiente virtual, por lo que giovani y darko deberan crear
 verificar, añadir y comentar cada proceso q hagan en el proyecto.
 
 CONTROL DE VERSIONES.
+
 fecha xx/xx/xx control de version1.0
 
 fecha termino version 1.0 (xx/xx/xx)-----------
