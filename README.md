@@ -8,10 +8,7 @@ verificar, añadir y comentar cada proceso q hagan en el proyecto.
 
 CONTROL DE VERSIONES.
 
-fecha xx/xx/xx control de version1.0
+fecha version 1.0 (xx/xx/xx)-----------
 
-fecha termino version 1.0 (xx/xx/xx)-----------
 
-fecha xx/xx/xx control de version2.0
-
-fecha termino version 2.0 (xx/xx/xx)-----------
+fecha version 2.0 (xx/xx/xx)-----------
